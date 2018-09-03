@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/source/song_1.JPG",
+        "audio": "/source/song_1.mp3",
+        "song": "我害怕",
+        "album": "我害怕",
+        "singer": "薛之谦",
+        "duration": 248,
+        "isLike": true
+    },
+    {
+        "image": "/source/song_2.JPG",
+        "audio": "/source/song_2.mp3",
+        "song": "不为谁而作的歌",
+        "album": "不为谁而作的歌",
+        "singer": "林俊杰",
+        "duration": 265,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_3.JPG",
+        "audio": "/source/song_3.mp3",
+        "song": "成都",
+        "album": "成都",
+        "singer": "赵雷",
+        "duration": 328,
+        "isLike": true
+    }
+]
